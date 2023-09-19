@@ -7,3 +7,5 @@
 ### *Technical Background*
 
 My technical experience is fairly limimted. My brother has a computer company called Imperial Computer Solutions that I helped out at here and there, but for the most part all of my experience has been in the educational setting. I have taken classes in C#, Java and C++. I enjoy learning new technologies and also how to build things. 
+
+![Favorite meme](https://i.imgflip.com/qlon2.jpg)
